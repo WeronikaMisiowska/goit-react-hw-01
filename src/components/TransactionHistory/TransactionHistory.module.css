@@ -1,0 +1,25 @@
+.table {
+    width: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead tr {
+    background-color: black;
+    color: white;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 200px;
+}
+
+.rowEven {
+    background-color: white;
+}
+
+.rowOdd {
+    background-color: #f2f2f2;
+}

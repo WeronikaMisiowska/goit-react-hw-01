@@ -1,0 +1,7 @@
+[
+  { "id": "1", "type": "invoice", "amount": "964.82", "currency": "LRD" },
+  { "id": "2", "type": "payment", "amount": "686.50", "currency": "WST" },
+  { "id": "3", "type": "invoice", "amount": "828.62", "currency": "UGX" },
+  { "id": "4", "type": "withdrawal", "amount": "527.80", "currency": "ALL" },
+  { "id": "5", "type": "payment", "amount": "862.44", "currency": "AUD" }
+]
